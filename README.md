@@ -1,2 +1,2 @@
-# simon-says
+# Simon-Says_GAME
 Using HTML ,Css,javascript
